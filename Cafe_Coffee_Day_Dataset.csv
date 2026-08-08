@@ -1,0 +1,501 @@
+Order_ID,Date,City,Store,Product,Category,Quantity,Unit_Price,Sales,Payment_Mode
+CCD1000,2025-10-12,Visakhapatnam,CCD Beach Road,Cappuccino,Coffee,5,167,835,Card
+CCD1001,2025-10-28,Delhi,CCD Beach Road,Muffin,Dessert,3,144,432,Cash
+CCD1002,2025-03-21,Hyderabad,CCD IT Park,Fries,Food,4,183,732,Cash
+CCD1003,2025-05-08,Visakhapatnam,CCD MG Road,Latte,Coffee,3,195,585,Wallet
+CCD1004,2025-03-29,Hyderabad,CCD IT Park,Fries,Food,2,174,348,Wallet
+CCD1005,2025-07-01,Delhi,CCD Airport,Cappuccino,Coffee,4,191,764,UPI
+CCD1006,2025-12-22,Bengaluru,CCD Mall,Cold Coffee,Beverage,2,206,412,UPI
+CCD1007,2025-02-26,Mumbai,CCD Beach Road,Cappuccino,Coffee,2,200,400,Card
+CCD1008,2025-08-17,Visakhapatnam,CCD Beach Road,Latte,Coffee,4,193,772,Card
+CCD1009,2025-12-09,Pune,CCD IT Park,Muffin,Dessert,3,120,360,Wallet
+CCD1010,2025-02-13,Chennai,CCD MG Road,Cold Coffee,Beverage,1,215,215,UPI
+CCD1011,2025-04-07,Pune,CCD Beach Road,Mocha,Coffee,1,204,204,Card
+CCD1012,2025-02-19,Delhi,CCD IT Park,Muffin,Dessert,5,132,660,Wallet
+CCD1013,2025-10-02,Delhi,CCD Mall,Muffin,Dessert,2,134,268,Cash
+CCD1014,2025-12-30,Pune,CCD MG Road,Muffin,Dessert,5,134,670,Cash
+CCD1015,2025-02-18,Hyderabad,CCD IT Park,Tea,Beverage,5,136,680,Cash
+CCD1016,2025-03-15,Visakhapatnam,CCD Beach Road,Espresso,Coffee,2,145,290,Card
+CCD1017,2025-04-15,Delhi,CCD MG Road,Fries,Food,2,169,338,UPI
+CCD1018,2025-03-05,Mumbai,CCD Mall,Sandwich,Food,2,270,540,Cash
+CCD1019,2025-09-18,Visakhapatnam,CCD Airport,Muffin,Dessert,3,126,378,Card
+CCD1020,2025-06-22,Pune,CCD Mall,Brownie,Dessert,5,171,855,Cash
+CCD1021,2025-09-28,Pune,CCD IT Park,Espresso,Coffee,4,144,576,Card
+CCD1022,2025-01-04,Chennai,CCD Mall,Cold Coffee,Beverage,4,239,956,Wallet
+CCD1023,2025-06-17,Delhi,CCD MG Road,Tea,Beverage,5,107,535,Card
+CCD1024,2025-11-28,Hyderabad,CCD IT Park,Cold Coffee,Beverage,2,232,464,Cash
+CCD1025,2025-10-16,Mumbai,CCD MG Road,Cappuccino,Coffee,4,178,712,Card
+CCD1026,2025-10-05,Visakhapatnam,CCD IT Park,Muffin,Dessert,2,156,312,UPI
+CCD1027,2025-10-31,Mumbai,CCD MG Road,Fries,Food,3,175,525,Cash
+CCD1028,2025-09-20,Delhi,CCD Airport,Brownie,Dessert,4,142,568,Cash
+CCD1029,2025-01-10,Delhi,CCD Airport,Espresso,Coffee,3,130,390,Wallet
+CCD1030,2025-08-19,Mumbai,CCD Mall,Muffin,Dessert,4,136,544,UPI
+CCD1031,2025-05-12,Chennai,CCD Beach Road,Espresso,Coffee,3,130,390,UPI
+CCD1032,2025-09-23,Bengaluru,CCD Mall,Fries,Food,3,182,546,UPI
+CCD1033,2025-01-28,Hyderabad,CCD Airport,Cappuccino,Coffee,3,199,597,Cash
+CCD1034,2025-09-01,Mumbai,CCD MG Road,Tea,Beverage,3,107,321,Cash
+CCD1035,2025-04-13,Hyderabad,CCD MG Road,Cappuccino,Coffee,2,174,348,UPI
+CCD1036,2025-07-27,Visakhapatnam,CCD Mall,Brownie,Dessert,3,179,537,Cash
+CCD1037,2025-03-30,Hyderabad,CCD Mall,Muffin,Dessert,5,126,630,Cash
+CCD1038,2025-05-13,Chennai,CCD Mall,Mocha,Coffee,3,202,606,Wallet
+CCD1039,2025-10-16,Mumbai,CCD MG Road,Muffin,Dessert,1,142,142,Wallet
+CCD1040,2025-06-19,Hyderabad,CCD Mall,Sandwich,Food,1,256,256,Wallet
+CCD1041,2025-07-25,Chennai,CCD Beach Road,Espresso,Coffee,3,137,411,UPI
+CCD1042,2025-08-01,Bengaluru,CCD Airport,Latte,Coffee,2,181,362,Card
+CCD1043,2025-07-01,Bengaluru,CCD Mall,Tea,Beverage,3,134,402,Wallet
+CCD1044,2025-05-24,Bengaluru,CCD Airport,Mocha,Coffee,4,208,832,Card
+CCD1045,2025-05-18,Hyderabad,CCD MG Road,Espresso,Coffee,3,132,396,UPI
+CCD1046,2025-11-24,Mumbai,CCD Beach Road,Brownie,Dessert,1,172,172,Cash
+CCD1047,2025-06-29,Pune,CCD MG Road,Brownie,Dessert,5,149,745,Wallet
+CCD1048,2025-03-18,Hyderabad,CCD Mall,Latte,Coffee,3,207,621,Card
+CCD1049,2025-10-18,Bengaluru,CCD IT Park,Cappuccino,Coffee,5,174,870,Card
+CCD1050,2025-10-05,Delhi,CCD IT Park,Cold Coffee,Beverage,4,216,864,Card
+CCD1051,2025-07-29,Chennai,CCD Beach Road,Cold Coffee,Beverage,2,222,444,Card
+CCD1052,2025-11-24,Visakhapatnam,CCD MG Road,Latte,Coffee,2,199,398,Card
+CCD1053,2025-01-28,Mumbai,CCD IT Park,Mocha,Coffee,2,197,394,Wallet
+CCD1054,2025-06-17,Chennai,CCD Beach Road,Brownie,Dessert,3,140,420,Wallet
+CCD1055,2025-08-25,Bengaluru,CCD MG Road,Cold Coffee,Beverage,4,239,956,UPI
+CCD1056,2025-09-09,Bengaluru,CCD MG Road,Tea,Beverage,3,120,360,Cash
+CCD1057,2025-02-05,Bengaluru,CCD Mall,Mocha,Coffee,5,207,1035,UPI
+CCD1058,2025-04-27,Hyderabad,CCD Airport,Sandwich,Food,4,250,1000,UPI
+CCD1059,2025-06-04,Bengaluru,CCD IT Park,Sandwich,Food,5,246,1230,Card
+CCD1060,2025-09-25,Chennai,CCD MG Road,Sandwich,Food,3,270,810,Cash
+CCD1061,2025-08-07,Delhi,CCD MG Road,Latte,Coffee,1,194,194,Cash
+CCD1062,2025-08-27,Hyderabad,CCD Beach Road,Latte,Coffee,3,182,546,Wallet
+CCD1063,2025-02-02,Visakhapatnam,CCD IT Park,Cold Coffee,Beverage,3,206,618,Wallet
+CCD1064,2025-03-31,Chennai,CCD IT Park,Espresso,Coffee,1,158,158,UPI
+CCD1065,2025-12-19,Hyderabad,CCD IT Park,Sandwich,Food,1,245,245,Wallet
+CCD1066,2025-07-15,Hyderabad,CCD Beach Road,Tea,Beverage,1,113,113,Wallet
+CCD1067,2025-09-04,Visakhapatnam,CCD MG Road,Espresso,Coffee,2,161,322,Card
+CCD1068,2025-07-25,Chennai,CCD Airport,Tea,Beverage,1,106,106,Cash
+CCD1069,2025-11-10,Visakhapatnam,CCD IT Park,Sandwich,Food,1,245,245,Card
+CCD1070,2025-05-27,Pune,CCD IT Park,Fries,Food,4,160,640,Card
+CCD1071,2025-10-20,Hyderabad,CCD IT Park,Sandwich,Food,2,256,512,UPI
+CCD1072,2025-07-19,Hyderabad,CCD Airport,Latte,Coffee,3,201,603,UPI
+CCD1073,2025-03-02,Pune,CCD MG Road,Fries,Food,5,190,950,Wallet
+CCD1074,2025-02-13,Mumbai,CCD Mall,Cappuccino,Coffee,4,178,712,Cash
+CCD1075,2025-04-16,Bengaluru,CCD Mall,Latte,Coffee,4,219,876,UPI
+CCD1076,2025-07-11,Bengaluru,CCD Airport,Espresso,Coffee,1,134,134,Wallet
+CCD1077,2025-04-17,Delhi,CCD IT Park,Sandwich,Food,4,240,960,Cash
+CCD1078,2025-04-26,Hyderabad,CCD Beach Road,Latte,Coffee,2,200,400,Wallet
+CCD1079,2025-10-23,Pune,CCD Mall,Espresso,Coffee,1,147,147,Cash
+CCD1080,2025-11-19,Chennai,CCD MG Road,Muffin,Dessert,4,127,508,UPI
+CCD1081,2025-04-25,Pune,CCD Mall,Latte,Coffee,5,185,925,Card
+CCD1082,2025-03-13,Hyderabad,CCD Mall,Cold Coffee,Beverage,3,215,645,UPI
+CCD1083,2025-11-26,Hyderabad,CCD IT Park,Tea,Beverage,1,114,114,Cash
+CCD1084,2025-03-21,Delhi,CCD Mall,Brownie,Dessert,2,147,294,Wallet
+CCD1085,2025-11-06,Bengaluru,CCD Beach Road,Latte,Coffee,3,194,582,Wallet
+CCD1086,2025-04-01,Hyderabad,CCD Mall,Muffin,Dessert,3,138,414,Wallet
+CCD1087,2025-05-21,Hyderabad,CCD Mall,Muffin,Dessert,2,151,302,Wallet
+CCD1088,2025-03-31,Chennai,CCD Mall,Latte,Coffee,1,199,199,Wallet
+CCD1089,2025-06-30,Delhi,CCD MG Road,Latte,Coffee,3,182,546,Cash
+CCD1090,2025-01-10,Bengaluru,CCD Mall,Latte,Coffee,5,212,1060,Wallet
+CCD1091,2025-11-10,Delhi,CCD Mall,Sandwich,Food,1,247,247,Card
+CCD1092,2025-01-08,Chennai,CCD IT Park,Tea,Beverage,4,118,472,Wallet
+CCD1093,2025-01-03,Mumbai,CCD Mall,Fries,Food,3,162,486,Wallet
+CCD1094,2025-06-30,Visakhapatnam,CCD IT Park,Tea,Beverage,4,111,444,Card
+CCD1095,2025-03-13,Hyderabad,CCD Airport,Brownie,Dessert,1,162,162,Wallet
+CCD1096,2025-07-16,Chennai,CCD Mall,Brownie,Dessert,4,172,688,Wallet
+CCD1097,2025-12-21,Pune,CCD Beach Road,Mocha,Coffee,5,198,990,Wallet
+CCD1098,2025-11-20,Pune,CCD MG Road,Sandwich,Food,2,246,492,Wallet
+CCD1099,2025-08-24,Delhi,CCD Beach Road,Tea,Beverage,1,108,108,UPI
+CCD1100,2025-07-17,Visakhapatnam,CCD IT Park,Cold Coffee,Beverage,1,227,227,UPI
+CCD1101,2025-06-04,Hyderabad,CCD Mall,Cold Coffee,Beverage,1,202,202,Card
+CCD1102,2025-08-01,Visakhapatnam,CCD Airport,Mocha,Coffee,1,218,218,Wallet
+CCD1103,2025-07-08,Delhi,CCD MG Road,Fries,Food,5,160,800,Wallet
+CCD1104,2025-10-29,Delhi,CCD IT Park,Sandwich,Food,1,243,243,Cash
+CCD1105,2025-05-20,Pune,CCD Mall,Muffin,Dessert,5,141,705,UPI
+CCD1106,2025-05-15,Pune,CCD Airport,Muffin,Dessert,1,151,151,Cash
+CCD1107,2025-08-14,Delhi,CCD Airport,Muffin,Dessert,2,129,258,Card
+CCD1108,2025-04-30,Hyderabad,CCD Beach Road,Tea,Beverage,2,135,270,Cash
+CCD1109,2025-11-17,Delhi,CCD MG Road,Latte,Coffee,5,206,1030,Wallet
+CCD1110,2025-10-05,Pune,CCD Mall,Cappuccino,Coffee,3,166,498,Cash
+CCD1111,2025-06-23,Visakhapatnam,CCD Mall,Sandwich,Food,1,269,269,Card
+CCD1112,2025-08-20,Mumbai,CCD IT Park,Cappuccino,Coffee,2,163,326,Wallet
+CCD1113,2025-01-11,Delhi,CCD Mall,Cappuccino,Coffee,3,178,534,UPI
+CCD1114,2025-11-20,Delhi,CCD Beach Road,Brownie,Dessert,2,160,320,UPI
+CCD1115,2025-08-25,Mumbai,CCD MG Road,Cappuccino,Coffee,1,193,193,UPI
+CCD1116,2025-01-01,Delhi,CCD Airport,Mocha,Coffee,4,208,832,Card
+CCD1117,2025-09-07,Pune,CCD Airport,Muffin,Dessert,5,154,770,Cash
+CCD1118,2025-02-21,Mumbai,CCD MG Road,Mocha,Coffee,5,200,1000,Card
+CCD1119,2025-03-06,Delhi,CCD MG Road,Cappuccino,Coffee,2,164,328,Card
+CCD1120,2025-05-14,Delhi,CCD IT Park,Brownie,Dessert,1,148,148,UPI
+CCD1121,2025-01-12,Visakhapatnam,CCD Airport,Fries,Food,4,187,748,UPI
+CCD1122,2025-05-14,Delhi,CCD MG Road,Mocha,Coffee,5,195,975,Wallet
+CCD1123,2025-01-25,Pune,CCD MG Road,Espresso,Coffee,3,150,450,Cash
+CCD1124,2025-11-01,Visakhapatnam,CCD Airport,Cappuccino,Coffee,3,200,600,Wallet
+CCD1125,2025-01-10,Mumbai,CCD IT Park,Cold Coffee,Beverage,5,230,1150,Wallet
+CCD1126,2025-08-04,Bengaluru,CCD Airport,Cappuccino,Coffee,2,184,368,Cash
+CCD1127,2025-11-07,Hyderabad,CCD Airport,Espresso,Coffee,3,153,459,Card
+CCD1128,2025-11-03,Bengaluru,CCD Beach Road,Fries,Food,4,165,660,Wallet
+CCD1129,2025-05-01,Hyderabad,CCD Beach Road,Tea,Beverage,4,126,504,UPI
+CCD1130,2025-04-07,Bengaluru,CCD MG Road,Brownie,Dessert,1,155,155,Cash
+CCD1131,2025-09-25,Mumbai,CCD MG Road,Latte,Coffee,1,206,206,Wallet
+CCD1132,2025-08-12,Visakhapatnam,CCD IT Park,Cold Coffee,Beverage,1,238,238,Cash
+CCD1133,2025-07-28,Hyderabad,CCD MG Road,Espresso,Coffee,1,155,155,Cash
+CCD1134,2025-05-17,Hyderabad,CCD MG Road,Sandwich,Food,4,257,1028,UPI
+CCD1135,2025-06-29,Chennai,CCD Airport,Brownie,Dessert,5,156,780,UPI
+CCD1136,2025-08-31,Hyderabad,CCD Beach Road,Tea,Beverage,4,134,536,Card
+CCD1137,2025-10-09,Chennai,CCD Mall,Latte,Coffee,4,198,792,UPI
+CCD1138,2025-12-16,Mumbai,CCD Mall,Sandwich,Food,3,254,762,Card
+CCD1139,2025-01-02,Hyderabad,CCD IT Park,Muffin,Dessert,5,144,720,Cash
+CCD1140,2025-03-12,Hyderabad,CCD MG Road,Fries,Food,2,172,344,Cash
+CCD1141,2025-07-09,Bengaluru,CCD Beach Road,Latte,Coffee,2,191,382,Wallet
+CCD1142,2025-07-06,Chennai,CCD Mall,Brownie,Dessert,1,155,155,UPI
+CCD1143,2025-11-30,Mumbai,CCD Airport,Cappuccino,Coffee,5,174,870,Wallet
+CCD1144,2025-09-13,Mumbai,CCD MG Road,Espresso,Coffee,3,163,489,Wallet
+CCD1145,2025-10-06,Pune,CCD IT Park,Mocha,Coffee,2,191,382,UPI
+CCD1146,2025-08-19,Mumbai,CCD MG Road,Cold Coffee,Beverage,5,220,1100,Card
+CCD1147,2025-05-25,Visakhapatnam,CCD Mall,Cappuccino,Coffee,5,161,805,Card
+CCD1148,2025-09-21,Delhi,CCD IT Park,Sandwich,Food,4,245,980,Card
+CCD1149,2025-11-18,Chennai,CCD Beach Road,Fries,Food,3,160,480,UPI
+CCD1150,2025-06-22,Chennai,CCD Beach Road,Muffin,Dessert,2,132,264,Card
+CCD1151,2025-10-07,Bengaluru,CCD MG Road,Cold Coffee,Beverage,2,202,404,Card
+CCD1152,2025-10-27,Visakhapatnam,CCD Beach Road,Latte,Coffee,3,212,636,Wallet
+CCD1153,2025-01-03,Chennai,CCD Beach Road,Mocha,Coffee,4,220,880,Cash
+CCD1154,2025-02-03,Mumbai,CCD Airport,Muffin,Dessert,2,130,260,Cash
+CCD1155,2025-07-07,Pune,CCD IT Park,Mocha,Coffee,1,229,229,Wallet
+CCD1156,2025-06-03,Bengaluru,CCD Airport,Espresso,Coffee,3,152,456,Card
+CCD1157,2025-06-18,Mumbai,CCD Beach Road,Fries,Food,1,176,176,Cash
+CCD1158,2025-12-23,Chennai,CCD Airport,Cold Coffee,Beverage,1,209,209,Card
+CCD1159,2025-09-28,Mumbai,CCD MG Road,Sandwich,Food,3,244,732,Cash
+CCD1160,2025-08-13,Visakhapatnam,CCD MG Road,Cappuccino,Coffee,4,174,696,Card
+CCD1161,2025-06-30,Delhi,CCD Mall,Tea,Beverage,5,125,625,Card
+CCD1162,2025-09-20,Hyderabad,CCD Mall,Mocha,Coffee,1,211,211,Cash
+CCD1163,2025-03-13,Pune,CCD Mall,Sandwich,Food,2,270,540,Card
+CCD1164,2025-08-26,Chennai,CCD Airport,Fries,Food,4,176,704,Cash
+CCD1165,2025-03-21,Chennai,CCD Mall,Cappuccino,Coffee,3,165,495,Cash
+CCD1166,2025-04-30,Visakhapatnam,CCD MG Road,Fries,Food,5,190,950,UPI
+CCD1167,2025-01-13,Bengaluru,CCD Mall,Brownie,Dessert,1,154,154,Cash
+CCD1168,2025-03-16,Chennai,CCD Mall,Sandwich,Food,4,241,964,UPI
+CCD1169,2025-04-11,Hyderabad,CCD MG Road,Cappuccino,Coffee,4,199,796,Card
+CCD1170,2025-06-08,Mumbai,CCD MG Road,Mocha,Coffee,3,221,663,Cash
+CCD1171,2025-02-08,Bengaluru,CCD Mall,Cappuccino,Coffee,2,169,338,Wallet
+CCD1172,2025-08-26,Visakhapatnam,CCD Airport,Sandwich,Food,2,265,530,UPI
+CCD1173,2025-06-01,Pune,CCD Mall,Latte,Coffee,1,186,186,Cash
+CCD1174,2025-04-10,Mumbai,CCD Mall,Cold Coffee,Beverage,3,221,663,Cash
+CCD1175,2025-02-23,Pune,CCD IT Park,Fries,Food,3,158,474,Wallet
+CCD1176,2025-07-05,Visakhapatnam,CCD Airport,Latte,Coffee,5,203,1015,Card
+CCD1177,2025-10-31,Visakhapatnam,CCD Airport,Sandwich,Food,3,243,729,Wallet
+CCD1178,2025-01-06,Visakhapatnam,CCD Beach Road,Latte,Coffee,3,195,585,Card
+CCD1179,2025-10-05,Pune,CCD Beach Road,Cappuccino,Coffee,1,176,176,Wallet
+CCD1180,2025-01-22,Delhi,CCD Beach Road,Sandwich,Food,4,256,1024,UPI
+CCD1181,2025-02-07,Bengaluru,CCD MG Road,Brownie,Dessert,4,178,712,Card
+CCD1182,2025-01-10,Chennai,CCD IT Park,Brownie,Dessert,3,149,447,Card
+CCD1183,2025-04-22,Hyderabad,CCD IT Park,Cold Coffee,Beverage,3,231,693,Card
+CCD1184,2025-06-09,Pune,CCD IT Park,Brownie,Dessert,1,180,180,Wallet
+CCD1185,2025-02-28,Delhi,CCD Mall,Tea,Beverage,3,138,414,UPI
+CCD1186,2025-02-05,Bengaluru,CCD Beach Road,Mocha,Coffee,1,194,194,Wallet
+CCD1187,2025-10-24,Pune,CCD Mall,Espresso,Coffee,5,143,715,Wallet
+CCD1188,2025-05-14,Mumbai,CCD Airport,Sandwich,Food,5,237,1185,Card
+CCD1189,2025-03-22,Pune,CCD Beach Road,Cold Coffee,Beverage,4,235,940,Card
+CCD1190,2025-08-25,Pune,CCD Airport,Muffin,Dessert,5,157,785,Cash
+CCD1191,2025-03-09,Bengaluru,CCD Beach Road,Muffin,Dessert,3,147,441,Wallet
+CCD1192,2025-03-02,Mumbai,CCD MG Road,Mocha,Coffee,3,211,633,Card
+CCD1193,2025-02-15,Bengaluru,CCD Mall,Brownie,Dessert,4,157,628,Wallet
+CCD1194,2025-01-15,Pune,CCD Beach Road,Latte,Coffee,3,211,633,Card
+CCD1195,2025-11-26,Mumbai,CCD Beach Road,Muffin,Dessert,3,120,360,Card
+CCD1196,2025-03-29,Hyderabad,CCD MG Road,Fries,Food,2,156,312,Wallet
+CCD1197,2025-09-11,Hyderabad,CCD MG Road,Muffin,Dessert,4,121,484,Wallet
+CCD1198,2025-12-22,Pune,CCD IT Park,Muffin,Dessert,4,142,568,Wallet
+CCD1199,2025-12-20,Bengaluru,CCD Airport,Brownie,Dessert,2,165,330,Wallet
+CCD1200,2025-03-02,Delhi,CCD Airport,Muffin,Dessert,2,149,298,Cash
+CCD1201,2025-11-23,Hyderabad,CCD MG Road,Mocha,Coffee,3,224,672,UPI
+CCD1202,2025-06-16,Hyderabad,CCD Beach Road,Cappuccino,Coffee,4,189,756,Cash
+CCD1203,2025-01-09,Hyderabad,CCD IT Park,Cappuccino,Coffee,3,166,498,Wallet
+CCD1204,2025-02-06,Delhi,CCD Mall,Sandwich,Food,2,248,496,Card
+CCD1205,2025-01-17,Hyderabad,CCD Airport,Brownie,Dessert,1,166,166,Card
+CCD1206,2025-05-01,Chennai,CCD IT Park,Muffin,Dessert,1,146,146,Wallet
+CCD1207,2025-11-17,Pune,CCD MG Road,Cappuccino,Coffee,2,188,376,Wallet
+CCD1208,2025-10-29,Chennai,CCD Mall,Mocha,Coffee,5,221,1105,Card
+CCD1209,2025-10-01,Hyderabad,CCD IT Park,Mocha,Coffee,5,193,965,UPI
+CCD1210,2025-10-29,Pune,CCD MG Road,Tea,Beverage,2,125,250,Cash
+CCD1211,2025-02-05,Visakhapatnam,CCD Airport,Fries,Food,5,163,815,Wallet
+CCD1212,2025-05-17,Bengaluru,CCD Beach Road,Brownie,Dessert,1,146,146,Card
+CCD1213,2025-06-16,Bengaluru,CCD Airport,Mocha,Coffee,3,193,579,Card
+CCD1214,2025-06-07,Delhi,CCD IT Park,Fries,Food,4,163,652,UPI
+CCD1215,2025-02-14,Pune,CCD Beach Road,Sandwich,Food,5,231,1155,Card
+CCD1216,2025-05-30,Delhi,CCD Beach Road,Cold Coffee,Beverage,2,238,476,UPI
+CCD1217,2025-08-04,Delhi,CCD IT Park,Muffin,Dessert,3,126,378,Wallet
+CCD1218,2025-09-29,Chennai,CCD Mall,Tea,Beverage,2,119,238,Card
+CCD1219,2025-11-05,Pune,CCD IT Park,Mocha,Coffee,1,191,191,Wallet
+CCD1220,2025-08-04,Mumbai,CCD IT Park,Muffin,Dessert,3,147,441,Cash
+CCD1221,2025-05-28,Visakhapatnam,CCD Mall,Fries,Food,4,178,712,Wallet
+CCD1222,2025-08-17,Mumbai,CCD Mall,Sandwich,Food,3,255,765,UPI
+CCD1223,2025-06-29,Hyderabad,CCD MG Road,Cold Coffee,Beverage,3,231,693,UPI
+CCD1224,2025-05-12,Mumbai,CCD Beach Road,Fries,Food,4,150,600,Wallet
+CCD1225,2025-07-01,Hyderabad,CCD MG Road,Brownie,Dessert,2,154,308,Cash
+CCD1226,2025-02-04,Hyderabad,CCD Mall,Brownie,Dessert,2,144,288,Wallet
+CCD1227,2025-03-23,Visakhapatnam,CCD Beach Road,Espresso,Coffee,4,131,524,Wallet
+CCD1228,2025-10-30,Delhi,CCD Mall,Latte,Coffee,2,191,382,UPI
+CCD1229,2025-01-11,Visakhapatnam,CCD MG Road,Cappuccino,Coffee,5,200,1000,UPI
+CCD1230,2025-06-17,Mumbai,CCD Airport,Espresso,Coffee,4,158,632,UPI
+CCD1231,2025-03-31,Pune,CCD IT Park,Fries,Food,3,188,564,Card
+CCD1232,2025-08-11,Bengaluru,CCD Beach Road,Tea,Beverage,5,107,535,Wallet
+CCD1233,2025-07-04,Delhi,CCD Mall,Fries,Food,2,151,302,UPI
+CCD1234,2025-03-29,Hyderabad,CCD Airport,Brownie,Dessert,1,176,176,Cash
+CCD1235,2025-10-20,Pune,CCD Beach Road,Tea,Beverage,2,107,214,Cash
+CCD1236,2025-10-26,Chennai,CCD Airport,Latte,Coffee,5,215,1075,UPI
+CCD1237,2025-12-26,Mumbai,CCD MG Road,Cold Coffee,Beverage,1,209,209,Card
+CCD1238,2025-10-13,Pune,CCD Beach Road,Espresso,Coffee,3,158,474,UPI
+CCD1239,2025-09-26,Pune,CCD Beach Road,Mocha,Coffee,5,222,1110,UPI
+CCD1240,2025-05-20,Visakhapatnam,CCD MG Road,Latte,Coffee,5,215,1075,Cash
+CCD1241,2025-01-19,Hyderabad,CCD Mall,Sandwich,Food,3,237,711,Cash
+CCD1242,2025-11-10,Hyderabad,CCD Mall,Muffin,Dessert,4,122,488,Cash
+CCD1243,2025-10-02,Mumbai,CCD Mall,Fries,Food,2,169,338,Cash
+CCD1244,2025-06-06,Visakhapatnam,CCD MG Road,Cold Coffee,Beverage,1,216,216,UPI
+CCD1245,2025-12-05,Visakhapatnam,CCD IT Park,Cold Coffee,Beverage,5,218,1090,Cash
+CCD1246,2025-07-22,Delhi,CCD Airport,Brownie,Dessert,5,148,740,Cash
+CCD1247,2025-12-26,Mumbai,CCD IT Park,Brownie,Dessert,2,145,290,Cash
+CCD1248,2025-12-31,Hyderabad,CCD IT Park,Cold Coffee,Beverage,1,204,204,Wallet
+CCD1249,2025-09-03,Mumbai,CCD Airport,Latte,Coffee,1,216,216,UPI
+CCD1250,2025-12-15,Mumbai,CCD Beach Road,Muffin,Dessert,4,143,572,UPI
+CCD1251,2025-03-24,Chennai,CCD Airport,Fries,Food,5,189,945,Cash
+CCD1252,2025-04-07,Mumbai,CCD Beach Road,Cappuccino,Coffee,4,180,720,UPI
+CCD1253,2025-07-09,Visakhapatnam,CCD Beach Road,Espresso,Coffee,2,136,272,Wallet
+CCD1254,2025-03-10,Hyderabad,CCD Mall,Latte,Coffee,3,215,645,Wallet
+CCD1255,2025-06-30,Visakhapatnam,CCD MG Road,Tea,Beverage,3,138,414,Cash
+CCD1256,2025-10-13,Chennai,CCD Mall,Cappuccino,Coffee,1,179,179,Wallet
+CCD1257,2025-10-17,Pune,CCD Beach Road,Sandwich,Food,2,235,470,Cash
+CCD1258,2025-10-30,Delhi,CCD Beach Road,Cold Coffee,Beverage,3,225,675,Cash
+CCD1259,2025-01-15,Hyderabad,CCD Airport,Cold Coffee,Beverage,1,238,238,UPI
+CCD1260,2025-09-20,Chennai,CCD Beach Road,Tea,Beverage,2,132,264,Card
+CCD1261,2025-03-01,Visakhapatnam,CCD Airport,Espresso,Coffee,2,167,334,Cash
+CCD1262,2025-04-25,Visakhapatnam,CCD MG Road,Cold Coffee,Beverage,5,205,1025,Cash
+CCD1263,2025-01-11,Visakhapatnam,CCD MG Road,Tea,Beverage,3,121,363,UPI
+CCD1264,2025-05-04,Chennai,CCD IT Park,Brownie,Dessert,2,172,344,Card
+CCD1265,2025-10-28,Visakhapatnam,CCD Mall,Cold Coffee,Beverage,2,218,436,Wallet
+CCD1266,2025-07-11,Hyderabad,CCD Beach Road,Espresso,Coffee,1,133,133,Cash
+CCD1267,2025-02-09,Bengaluru,CCD Mall,Cold Coffee,Beverage,3,211,633,UPI
+CCD1268,2025-03-03,Bengaluru,CCD IT Park,Brownie,Dessert,5,170,850,Card
+CCD1269,2025-12-31,Delhi,CCD IT Park,Cappuccino,Coffee,3,194,582,UPI
+CCD1270,2025-03-29,Mumbai,CCD MG Road,Mocha,Coffee,3,229,687,Wallet
+CCD1271,2025-12-12,Mumbai,CCD Beach Road,Espresso,Coffee,5,153,765,Cash
+CCD1272,2025-06-01,Hyderabad,CCD Mall,Muffin,Dessert,4,142,568,UPI
+CCD1273,2025-04-24,Pune,CCD Mall,Espresso,Coffee,5,153,765,Cash
+CCD1274,2025-11-20,Bengaluru,CCD Mall,Cold Coffee,Beverage,1,218,218,Wallet
+CCD1275,2025-05-04,Chennai,CCD MG Road,Tea,Beverage,5,104,520,UPI
+CCD1276,2025-12-27,Bengaluru,CCD MG Road,Espresso,Coffee,3,133,399,Cash
+CCD1277,2025-05-15,Hyderabad,CCD MG Road,Cold Coffee,Beverage,5,221,1105,UPI
+CCD1278,2025-02-13,Chennai,CCD Airport,Cappuccino,Coffee,5,188,940,Wallet
+CCD1279,2025-11-28,Pune,CCD Beach Road,Fries,Food,1,171,171,Wallet
+CCD1280,2025-12-06,Chennai,CCD IT Park,Fries,Food,5,167,835,Cash
+CCD1281,2025-04-12,Visakhapatnam,CCD Airport,Espresso,Coffee,2,138,276,Cash
+CCD1282,2025-09-29,Bengaluru,CCD Mall,Fries,Food,2,187,374,Cash
+CCD1283,2025-05-27,Delhi,CCD Mall,Fries,Food,2,171,342,UPI
+CCD1284,2025-07-14,Mumbai,CCD Airport,Sandwich,Food,1,237,237,Wallet
+CCD1285,2025-11-01,Visakhapatnam,CCD IT Park,Cold Coffee,Beverage,5,206,1030,Wallet
+CCD1286,2025-04-14,Hyderabad,CCD MG Road,Espresso,Coffee,2,151,302,UPI
+CCD1287,2025-01-10,Delhi,CCD Beach Road,Espresso,Coffee,5,156,780,Cash
+CCD1288,2025-11-30,Mumbai,CCD IT Park,Cold Coffee,Beverage,5,209,1045,UPI
+CCD1289,2025-05-22,Delhi,CCD Airport,Tea,Beverage,3,116,348,Cash
+CCD1290,2025-05-17,Hyderabad,CCD Airport,Tea,Beverage,1,139,139,Wallet
+CCD1291,2025-10-29,Chennai,CCD Beach Road,Espresso,Coffee,1,137,137,Card
+CCD1292,2025-10-16,Mumbai,CCD Airport,Brownie,Dessert,2,154,308,UPI
+CCD1293,2025-06-05,Hyderabad,CCD Airport,Latte,Coffee,1,208,208,Card
+CCD1294,2025-09-21,Visakhapatnam,CCD Mall,Latte,Coffee,1,208,208,UPI
+CCD1295,2025-04-23,Hyderabad,CCD MG Road,Mocha,Coffee,1,219,219,Cash
+CCD1296,2025-08-24,Chennai,CCD Beach Road,Cold Coffee,Beverage,4,215,860,Card
+CCD1297,2025-10-10,Visakhapatnam,CCD MG Road,Latte,Coffee,3,186,558,UPI
+CCD1298,2025-12-07,Chennai,CCD MG Road,Brownie,Dessert,1,177,177,Card
+CCD1299,2025-06-16,Delhi,CCD Beach Road,Mocha,Coffee,5,220,1100,Cash
+CCD1300,2025-06-12,Chennai,CCD MG Road,Espresso,Coffee,1,164,164,Cash
+CCD1301,2025-02-09,Chennai,CCD MG Road,Latte,Coffee,2,207,414,Card
+CCD1302,2025-09-10,Bengaluru,CCD Airport,Mocha,Coffee,4,220,880,UPI
+CCD1303,2025-12-09,Delhi,CCD Mall,Latte,Coffee,4,215,860,Wallet
+CCD1304,2025-12-12,Chennai,CCD Beach Road,Latte,Coffee,2,211,422,Wallet
+CCD1305,2025-07-23,Delhi,CCD Beach Road,Cold Coffee,Beverage,5,237,1185,Wallet
+CCD1306,2025-09-21,Hyderabad,CCD Beach Road,Mocha,Coffee,4,221,884,UPI
+CCD1307,2025-06-16,Bengaluru,CCD Beach Road,Brownie,Dessert,5,175,875,Card
+CCD1308,2025-02-27,Visakhapatnam,CCD Mall,Espresso,Coffee,1,132,132,Card
+CCD1309,2025-12-10,Visakhapatnam,CCD Mall,Espresso,Coffee,5,144,720,UPI
+CCD1310,2025-06-05,Hyderabad,CCD IT Park,Brownie,Dessert,5,155,775,Cash
+CCD1311,2025-08-27,Delhi,CCD IT Park,Fries,Food,1,186,186,Wallet
+CCD1312,2025-02-06,Chennai,CCD IT Park,Cold Coffee,Beverage,2,228,456,UPI
+CCD1313,2025-08-24,Chennai,CCD MG Road,Tea,Beverage,4,134,536,Cash
+CCD1314,2025-09-04,Chennai,CCD IT Park,Cold Coffee,Beverage,5,201,1005,Cash
+CCD1315,2025-03-16,Chennai,CCD IT Park,Latte,Coffee,5,215,1075,Cash
+CCD1316,2025-01-20,Visakhapatnam,CCD MG Road,Sandwich,Food,3,232,696,UPI
+CCD1317,2025-08-14,Visakhapatnam,CCD IT Park,Cappuccino,Coffee,3,184,552,Cash
+CCD1318,2025-09-27,Chennai,CCD MG Road,Sandwich,Food,5,246,1230,UPI
+CCD1319,2025-09-17,Mumbai,CCD Mall,Fries,Food,1,162,162,Wallet
+CCD1320,2025-04-28,Delhi,CCD Beach Road,Mocha,Coffee,5,195,975,Cash
+CCD1321,2025-11-14,Hyderabad,CCD Beach Road,Latte,Coffee,3,198,594,Wallet
+CCD1322,2025-07-06,Visakhapatnam,CCD Beach Road,Sandwich,Food,2,262,524,Card
+CCD1323,2025-12-06,Visakhapatnam,CCD Beach Road,Latte,Coffee,2,198,396,Cash
+CCD1324,2025-11-03,Mumbai,CCD IT Park,Espresso,Coffee,3,168,504,Wallet
+CCD1325,2025-11-02,Bengaluru,CCD IT Park,Muffin,Dessert,2,144,288,Wallet
+CCD1326,2025-02-17,Hyderabad,CCD Beach Road,Brownie,Dessert,5,149,745,Wallet
+CCD1327,2025-07-12,Mumbai,CCD Beach Road,Fries,Food,2,172,344,Card
+CCD1328,2025-07-01,Delhi,CCD Beach Road,Fries,Food,2,156,312,Card
+CCD1329,2025-02-20,Chennai,CCD IT Park,Espresso,Coffee,3,143,429,Cash
+CCD1330,2025-09-20,Chennai,CCD IT Park,Fries,Food,5,157,785,UPI
+CCD1331,2025-02-08,Hyderabad,CCD Airport,Brownie,Dessert,5,147,735,Card
+CCD1332,2025-03-17,Visakhapatnam,CCD IT Park,Mocha,Coffee,5,206,1030,Cash
+CCD1333,2025-02-03,Delhi,CCD Beach Road,Brownie,Dessert,2,144,288,Card
+CCD1334,2025-09-20,Pune,CCD Mall,Fries,Food,3,156,468,Wallet
+CCD1335,2025-01-05,Visakhapatnam,CCD Beach Road,Fries,Food,2,176,352,Card
+CCD1336,2025-01-18,Visakhapatnam,CCD MG Road,Muffin,Dessert,4,149,596,Wallet
+CCD1337,2025-10-21,Delhi,CCD Mall,Brownie,Dessert,3,174,522,UPI
+CCD1338,2025-07-04,Chennai,CCD Airport,Brownie,Dessert,2,161,322,Cash
+CCD1339,2025-03-05,Hyderabad,CCD IT Park,Cappuccino,Coffee,2,187,374,Wallet
+CCD1340,2025-08-14,Pune,CCD Mall,Tea,Beverage,4,105,420,Cash
+CCD1341,2025-11-28,Bengaluru,CCD MG Road,Tea,Beverage,1,137,137,Cash
+CCD1342,2025-10-09,Chennai,CCD IT Park,Mocha,Coffee,4,202,808,Cash
+CCD1343,2025-05-13,Chennai,CCD MG Road,Latte,Coffee,5,183,915,UPI
+CCD1344,2025-01-23,Pune,CCD Airport,Mocha,Coffee,4,220,880,UPI
+CCD1345,2025-12-21,Mumbai,CCD MG Road,Cappuccino,Coffee,5,166,830,UPI
+CCD1346,2025-11-08,Pune,CCD MG Road,Brownie,Dessert,5,141,705,UPI
+CCD1347,2025-01-13,Delhi,CCD IT Park,Tea,Beverage,2,134,268,UPI
+CCD1348,2025-02-07,Hyderabad,CCD IT Park,Latte,Coffee,3,203,609,Cash
+CCD1349,2025-07-14,Delhi,CCD IT Park,Cappuccino,Coffee,4,190,760,Wallet
+CCD1350,2025-04-12,Chennai,CCD MG Road,Sandwich,Food,5,244,1220,Cash
+CCD1351,2025-01-17,Delhi,CCD MG Road,Sandwich,Food,2,256,512,Wallet
+CCD1352,2025-12-08,Bengaluru,CCD Beach Road,Mocha,Coffee,4,196,784,Wallet
+CCD1353,2025-04-11,Mumbai,CCD Airport,Espresso,Coffee,1,161,161,UPI
+CCD1354,2025-08-03,Chennai,CCD Beach Road,Muffin,Dessert,4,125,500,UPI
+CCD1355,2025-01-08,Chennai,CCD MG Road,Latte,Coffee,5,207,1035,Card
+CCD1356,2025-06-02,Chennai,CCD Beach Road,Tea,Beverage,1,128,128,Cash
+CCD1357,2025-01-07,Hyderabad,CCD Airport,Sandwich,Food,2,237,474,Cash
+CCD1358,2025-01-22,Mumbai,CCD Beach Road,Mocha,Coffee,3,207,621,Card
+CCD1359,2025-07-23,Pune,CCD Mall,Mocha,Coffee,3,206,618,UPI
+CCD1360,2025-04-09,Mumbai,CCD MG Road,Espresso,Coffee,5,139,695,Card
+CCD1361,2025-03-29,Pune,CCD Mall,Espresso,Coffee,5,156,780,Wallet
+CCD1362,2025-02-25,Visakhapatnam,CCD Mall,Mocha,Coffee,1,225,225,UPI
+CCD1363,2025-12-30,Hyderabad,CCD Beach Road,Cappuccino,Coffee,4,195,780,Wallet
+CCD1364,2025-01-30,Pune,CCD Mall,Tea,Beverage,5,134,670,Card
+CCD1365,2025-03-19,Hyderabad,CCD MG Road,Muffin,Dessert,2,140,280,Wallet
+CCD1366,2025-02-07,Bengaluru,CCD IT Park,Cold Coffee,Beverage,2,225,450,Cash
+CCD1367,2025-04-13,Hyderabad,CCD IT Park,Latte,Coffee,2,197,394,Card
+CCD1368,2025-10-30,Hyderabad,CCD MG Road,Mocha,Coffee,5,196,980,Wallet
+CCD1369,2025-01-18,Delhi,CCD Mall,Latte,Coffee,4,199,796,Wallet
+CCD1370,2025-08-01,Pune,CCD MG Road,Brownie,Dessert,4,179,716,Card
+CCD1371,2025-03-31,Bengaluru,CCD Airport,Latte,Coffee,4,197,788,UPI
+CCD1372,2025-06-10,Bengaluru,CCD Mall,Fries,Food,5,160,800,Wallet
+CCD1373,2025-09-30,Mumbai,CCD Airport,Sandwich,Food,1,241,241,Card
+CCD1374,2025-03-30,Hyderabad,CCD MG Road,Brownie,Dessert,1,142,142,Wallet
+CCD1375,2025-07-12,Mumbai,CCD IT Park,Tea,Beverage,4,101,404,Cash
+CCD1376,2025-10-03,Bengaluru,CCD MG Road,Espresso,Coffee,1,154,154,UPI
+CCD1377,2025-03-08,Delhi,CCD Airport,Espresso,Coffee,3,151,453,Card
+CCD1378,2025-09-22,Bengaluru,CCD MG Road,Brownie,Dessert,1,180,180,UPI
+CCD1379,2025-10-16,Hyderabad,CCD IT Park,Mocha,Coffee,2,228,456,UPI
+CCD1380,2025-10-08,Pune,CCD MG Road,Cold Coffee,Beverage,2,232,464,UPI
+CCD1381,2025-07-16,Hyderabad,CCD IT Park,Tea,Beverage,2,111,222,Wallet
+CCD1382,2025-01-30,Hyderabad,CCD MG Road,Muffin,Dessert,1,147,147,Wallet
+CCD1383,2025-08-11,Visakhapatnam,CCD Airport,Latte,Coffee,1,191,191,Wallet
+CCD1384,2025-06-18,Bengaluru,CCD Airport,Cappuccino,Coffee,3,178,534,Card
+CCD1385,2025-10-10,Bengaluru,CCD IT Park,Tea,Beverage,1,110,110,Card
+CCD1386,2025-01-20,Delhi,CCD Airport,Sandwich,Food,5,266,1330,Card
+CCD1387,2025-03-12,Delhi,CCD MG Road,Cappuccino,Coffee,1,185,185,Card
+CCD1388,2025-06-12,Visakhapatnam,CCD Beach Road,Sandwich,Food,3,231,693,Card
+CCD1389,2025-09-15,Chennai,CCD MG Road,Cold Coffee,Beverage,5,220,1100,Wallet
+CCD1390,2025-04-26,Chennai,CCD Airport,Sandwich,Food,4,243,972,Cash
+CCD1391,2025-12-03,Hyderabad,CCD IT Park,Mocha,Coffee,1,212,212,UPI
+CCD1392,2025-10-24,Delhi,CCD Mall,Espresso,Coffee,3,151,453,Wallet
+CCD1393,2025-08-25,Mumbai,CCD MG Road,Latte,Coffee,1,180,180,Card
+CCD1394,2025-04-21,Visakhapatnam,CCD IT Park,Brownie,Dessert,2,146,292,UPI
+CCD1395,2025-11-14,Delhi,CCD Beach Road,Cold Coffee,Beverage,2,202,404,Wallet
+CCD1396,2025-10-31,Pune,CCD Beach Road,Cappuccino,Coffee,2,194,388,Wallet
+CCD1397,2025-02-22,Delhi,CCD IT Park,Mocha,Coffee,1,194,194,Card
+CCD1398,2025-11-09,Bengaluru,CCD IT Park,Mocha,Coffee,2,207,414,Wallet
+CCD1399,2025-10-26,Bengaluru,CCD Airport,Latte,Coffee,2,215,430,Wallet
+CCD1400,2025-06-19,Chennai,CCD IT Park,Sandwich,Food,5,268,1340,Wallet
+CCD1401,2025-02-21,Pune,CCD Airport,Brownie,Dessert,4,172,688,Card
+CCD1402,2025-10-25,Chennai,CCD MG Road,Fries,Food,2,180,360,Wallet
+CCD1403,2025-04-24,Delhi,CCD Mall,Brownie,Dessert,4,142,568,Card
+CCD1404,2025-06-01,Mumbai,CCD Beach Road,Espresso,Coffee,3,163,489,Cash
+CCD1405,2025-09-03,Pune,CCD Beach Road,Muffin,Dessert,3,140,420,Card
+CCD1406,2025-04-16,Hyderabad,CCD MG Road,Mocha,Coffee,3,197,591,Wallet
+CCD1407,2025-07-09,Delhi,CCD Beach Road,Fries,Food,2,187,374,UPI
+CCD1408,2025-06-07,Hyderabad,CCD Mall,Mocha,Coffee,1,191,191,UPI
+CCD1409,2025-09-20,Chennai,CCD Beach Road,Latte,Coffee,3,200,600,Cash
+CCD1410,2025-12-11,Pune,CCD Mall,Cold Coffee,Beverage,5,201,1005,Card
+CCD1411,2025-08-04,Bengaluru,CCD Airport,Tea,Beverage,3,104,312,Wallet
+CCD1412,2025-05-07,Hyderabad,CCD Airport,Fries,Food,1,164,164,Card
+CCD1413,2025-04-12,Chennai,CCD Mall,Cold Coffee,Beverage,1,236,236,Card
+CCD1414,2025-03-03,Hyderabad,CCD Airport,Fries,Food,3,169,507,UPI
+CCD1415,2025-07-29,Pune,CCD IT Park,Cappuccino,Coffee,2,179,358,UPI
+CCD1416,2025-08-27,Chennai,CCD IT Park,Fries,Food,3,160,480,Wallet
+CCD1417,2025-05-06,Delhi,CCD Beach Road,Sandwich,Food,3,235,705,UPI
+CCD1418,2025-04-18,Visakhapatnam,CCD Mall,Muffin,Dessert,5,131,655,Card
+CCD1419,2025-02-11,Delhi,CCD IT Park,Brownie,Dessert,2,164,328,UPI
+CCD1420,2025-11-17,Chennai,CCD Mall,Fries,Food,5,175,875,UPI
+CCD1421,2025-10-28,Bengaluru,CCD Airport,Sandwich,Food,4,252,1008,Card
+CCD1422,2025-02-17,Visakhapatnam,CCD Mall,Tea,Beverage,2,100,200,Card
+CCD1423,2025-04-20,Visakhapatnam,CCD IT Park,Espresso,Coffee,1,133,133,Wallet
+CCD1424,2025-02-17,Visakhapatnam,CCD Beach Road,Cold Coffee,Beverage,2,236,472,Card
+CCD1425,2025-08-02,Hyderabad,CCD Beach Road,Sandwich,Food,3,259,777,Cash
+CCD1426,2025-06-01,Delhi,CCD Airport,Mocha,Coffee,1,193,193,Wallet
+CCD1427,2025-11-19,Bengaluru,CCD IT Park,Fries,Food,2,174,348,Card
+CCD1428,2025-12-17,Delhi,CCD IT Park,Cappuccino,Coffee,1,161,161,Wallet
+CCD1429,2025-05-21,Hyderabad,CCD Mall,Brownie,Dessert,3,143,429,Cash
+CCD1430,2025-03-29,Visakhapatnam,CCD MG Road,Sandwich,Food,3,233,699,Wallet
+CCD1431,2025-01-09,Delhi,CCD Mall,Cold Coffee,Beverage,5,215,1075,Cash
+CCD1432,2025-02-15,Visakhapatnam,CCD Mall,Latte,Coffee,3,204,612,Cash
+CCD1433,2025-05-06,Pune,CCD Mall,Cappuccino,Coffee,1,190,190,UPI
+CCD1434,2025-05-17,Mumbai,CCD Beach Road,Espresso,Coffee,1,134,134,Cash
+CCD1435,2025-08-24,Chennai,CCD Mall,Fries,Food,4,151,604,Card
+CCD1436,2025-09-03,Pune,CCD Mall,Brownie,Dessert,1,168,168,UPI
+CCD1437,2025-10-17,Pune,CCD MG Road,Cold Coffee,Beverage,4,228,912,UPI
+CCD1438,2025-10-22,Mumbai,CCD IT Park,Latte,Coffee,5,198,990,Cash
+CCD1439,2025-07-21,Hyderabad,CCD IT Park,Fries,Food,2,190,380,UPI
+CCD1440,2025-02-27,Hyderabad,CCD IT Park,Cappuccino,Coffee,3,197,591,Wallet
+CCD1441,2025-03-28,Visakhapatnam,CCD IT Park,Cold Coffee,Beverage,3,214,642,Cash
+CCD1442,2025-07-11,Bengaluru,CCD IT Park,Latte,Coffee,4,186,744,Card
+CCD1443,2025-12-07,Delhi,CCD Airport,Cappuccino,Coffee,3,191,573,Card
+CCD1444,2025-12-30,Visakhapatnam,CCD Beach Road,Cold Coffee,Beverage,5,232,1160,Card
+CCD1445,2025-07-13,Visakhapatnam,CCD MG Road,Brownie,Dessert,4,140,560,Wallet
+CCD1446,2025-09-12,Delhi,CCD Beach Road,Tea,Beverage,5,140,700,UPI
+CCD1447,2025-10-27,Pune,CCD Beach Road,Tea,Beverage,5,103,515,Wallet
+CCD1448,2025-09-06,Hyderabad,CCD Mall,Cappuccino,Coffee,2,197,394,Card
+CCD1449,2025-06-02,Pune,CCD Beach Road,Cappuccino,Coffee,5,190,950,Wallet
+CCD1450,2025-06-14,Pune,CCD MG Road,Cold Coffee,Beverage,3,237,711,UPI
+CCD1451,2025-02-27,Bengaluru,CCD MG Road,Espresso,Coffee,1,138,138,Card
+CCD1452,2025-06-12,Mumbai,CCD MG Road,Latte,Coffee,4,213,852,Wallet
+CCD1453,2025-09-25,Delhi,CCD Airport,Sandwich,Food,1,249,249,Cash
+CCD1454,2025-10-17,Delhi,CCD Airport,Espresso,Coffee,1,140,140,UPI
+CCD1455,2025-10-26,Chennai,CCD Airport,Espresso,Coffee,4,160,640,Cash
+CCD1456,2025-01-12,Mumbai,CCD Mall,Tea,Beverage,1,121,121,Card
+CCD1457,2025-06-16,Chennai,CCD MG Road,Fries,Food,4,189,756,Cash
+CCD1458,2025-02-06,Mumbai,CCD Beach Road,Cold Coffee,Beverage,5,233,1165,Cash
+CCD1459,2025-08-06,Pune,CCD MG Road,Sandwich,Food,3,243,729,Wallet
+CCD1460,2025-12-08,Pune,CCD MG Road,Tea,Beverage,1,136,136,UPI
+CCD1461,2025-12-04,Chennai,CCD Mall,Cold Coffee,Beverage,4,204,816,UPI
+CCD1462,2025-10-14,Mumbai,CCD IT Park,Muffin,Dessert,3,139,417,Wallet
+CCD1463,2025-12-12,Bengaluru,CCD Beach Road,Muffin,Dessert,1,144,144,Card
+CCD1464,2025-09-08,Pune,CCD Beach Road,Sandwich,Food,3,246,738,UPI
+CCD1465,2025-05-31,Hyderabad,CCD IT Park,Muffin,Dessert,4,126,504,UPI
+CCD1466,2025-03-03,Pune,CCD Mall,Tea,Beverage,4,113,452,Card
+CCD1467,2025-08-02,Mumbai,CCD Mall,Muffin,Dessert,1,151,151,Card
+CCD1468,2025-03-29,Mumbai,CCD Mall,Latte,Coffee,1,206,206,Wallet
+CCD1469,2025-04-07,Mumbai,CCD Mall,Latte,Coffee,3,199,597,Wallet
+CCD1470,2025-04-04,Chennai,CCD MG Road,Cold Coffee,Beverage,2,212,424,Cash
+CCD1471,2025-09-04,Bengaluru,CCD Beach Road,Tea,Beverage,4,121,484,Card
+CCD1472,2025-08-06,Mumbai,CCD Mall,Muffin,Dessert,4,136,544,UPI
+CCD1473,2025-05-14,Mumbai,CCD Beach Road,Cappuccino,Coffee,5,190,950,UPI
+CCD1474,2025-11-20,Visakhapatnam,CCD IT Park,Brownie,Dessert,3,165,495,Wallet
+CCD1475,2025-09-15,Delhi,CCD IT Park,Latte,Coffee,1,209,209,Wallet
+CCD1476,2025-12-03,Bengaluru,CCD Airport,Fries,Food,3,162,486,Cash
+CCD1477,2025-03-17,Hyderabad,CCD MG Road,Brownie,Dessert,4,147,588,Cash
+CCD1478,2025-01-26,Mumbai,CCD Mall,Muffin,Dessert,1,129,129,Cash
+CCD1479,2025-07-28,Chennai,CCD Airport,Cappuccino,Coffee,1,172,172,Card
+CCD1480,2025-08-01,Bengaluru,CCD Mall,Tea,Beverage,4,100,400,Cash
+CCD1481,2025-09-26,Hyderabad,CCD MG Road,Mocha,Coffee,5,220,1100,Wallet
+CCD1482,2025-08-21,Bengaluru,CCD Beach Road,Brownie,Dessert,5,152,760,Wallet
+CCD1483,2025-03-27,Delhi,CCD Mall,Cappuccino,Coffee,2,183,366,Wallet
+CCD1484,2025-10-05,Bengaluru,CCD Mall,Espresso,Coffee,4,161,644,Cash
+CCD1485,2025-01-04,Pune,CCD MG Road,Cappuccino,Coffee,5,171,855,UPI
+CCD1486,2025-09-24,Pune,CCD Airport,Sandwich,Food,3,235,705,Wallet
+CCD1487,2025-02-06,Pune,CCD Mall,Fries,Food,2,158,316,Cash
+CCD1488,2025-03-04,Visakhapatnam,CCD Mall,Latte,Coffee,2,198,396,Card
+CCD1489,2025-10-02,Hyderabad,CCD MG Road,Fries,Food,5,179,895,UPI
+CCD1490,2025-06-27,Chennai,CCD Beach Road,Fries,Food,3,159,477,Card
+CCD1491,2025-01-28,Bengaluru,CCD Mall,Espresso,Coffee,1,137,137,Wallet
+CCD1492,2025-12-08,Hyderabad,CCD Mall,Tea,Beverage,4,140,560,Cash
+CCD1493,2025-06-30,Chennai,CCD Beach Road,Tea,Beverage,4,112,448,UPI
+CCD1494,2025-11-02,Hyderabad,CCD Airport,Mocha,Coffee,3,215,645,Cash
+CCD1495,2025-02-08,Visakhapatnam,CCD Beach Road,Mocha,Coffee,1,202,202,Wallet
+CCD1496,2025-06-22,Delhi,CCD Mall,Cold Coffee,Beverage,4,217,868,Card
+CCD1497,2025-09-01,Hyderabad,CCD Mall,Espresso,Coffee,5,147,735,UPI
+CCD1498,2025-02-14,Pune,CCD IT Park,Fries,Food,3,160,480,Wallet
+CCD1499,2025-06-27,Hyderabad,CCD Airport,Brownie,Dessert,2,178,356,Cash
